@@ -1,0 +1,4 @@
+ultralytics
+streamlit==1.66.0
+pandas
+Pillow

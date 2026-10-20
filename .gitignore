@@ -1,0 +1,29 @@
+﻿
+# Python virtual environment
+vision312/
+venv/
+.venv/
+
+# Dataset
+data/
+
+# Training outputs and model weights
+outputs/
+runs/
+*.pt
+*.pth
+*.onnx
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local secrets and environment variables
+.env
+.env.*
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
